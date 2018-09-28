@@ -1,2 +1,4 @@
 # ZPUINavigationController_storyboard
 介绍怎样利用storyboard文件来创建导航控制器(UINavigationController)以及怎样在可视化的视图上给导航栏添加按钮和标题。
+
+目前的视频中没有单独介绍使用storyboard文件来创建导航控制器的，但是创建导航控制器有两种方式，除了其他Demo中介绍的使用代码的方式之外还有这个Demo介绍的使用storyboard文件的方式。
